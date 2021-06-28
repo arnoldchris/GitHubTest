@@ -6,7 +6,4 @@ public class ApplicationDemo1 {
         System.out.println("Application Class Demo1 Running");
 
     }
-    public void test(){
-        System.out.println("Testing methods");
-    }
 }
